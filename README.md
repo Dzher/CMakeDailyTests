@@ -1,0 +1,2 @@
+# CMakeDailyTests
+Improve CMake Skills
